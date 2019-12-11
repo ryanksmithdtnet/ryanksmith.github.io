@@ -8,11 +8,11 @@ url:                "https://packetgimp.github.io/"
 # Social Profiles
 twitter_username:   cyb3rp00l
 github_username:    PacketGimp
-facebook_username:  cyb3rp00l
-linkedin_username:  cyb3rp00l
+facebook_username:  cybersecradar
+linkedin_username:  cybersecradar
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-154442289-1
 
 # Build settings
 markdown:           kramdown
