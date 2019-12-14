@@ -2,8 +2,8 @@ title:              Ryan K. Smith
 email:              me@ryanksmith.net
 description:        A Blog Theme by Start Bootstrap
 author:             Ryan K. Smith
-baseurl:            "/ryanksmith1.github.io/"
-url:                "https://packetgimp.github.io/"
+baseurl:            "/"
+url:                "https://www.ryanksmith.net"
 
 # Social Profiles
 twitter_username:   cyb3rp00l
